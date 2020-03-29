@@ -45,6 +45,7 @@ Than:
   2. Change options like difficulty or size of the map
   3. Quit the game
 * When you start use W, S, A and D to move: ```O``` is the Snake, ```#``` is the Snack
+* Eat as many Snacks as it is possible, but remeber, every Snack eaten makes your Snake longer
 * It is allowed to run through the walls
 * Do not eat your tail!
 
