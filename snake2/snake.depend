@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1559932264 source:c:\users\artek\desktop\projekt\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+	<cstdio>
+
